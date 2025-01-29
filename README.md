@@ -10,3 +10,7 @@
 * The technical implementation stands out for its simplicity and effectiveness. By introducing a new transaction type with a delegation pattern, accounts can point to contract code without requiring a complete rework of the account system. This approach mirrors well-established patterns in modern programming languages, where interfaces and delegation are used to extend functionality without breaking existing systems.
 
 * The practical implications for blockchain development are significant. This enhancement enables more sophisticated dApp architectures with improved user experiences - from transaction batching to granular permissions management. However, the added complexity also raises important security considerations, particularly around wallet implementations and user understanding of account capabilities. The proposal highlights the ongoing balance between advancing functionality and maintaining system security in blockchain development.
+
+## Comments from Kevin Jin
+
+I thoroughly enjoyed reading the "EIP-7702: A Beginner's Guide" article. It provides a clear and concise explanation of the proposed enhancements to Ethereum's architecture, particularly the introduction of smart contract capabilities to regular accounts. The delegation pattern and the new transaction type offer a seamless way to extend functionality without disrupting existing systems. 
